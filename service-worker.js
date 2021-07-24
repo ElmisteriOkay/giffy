@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ElmisteriOkay.github.io/giffy/precache-manifest.10333ff36817def6bcc1613a8089e841.js"
+  "/ElmisteriOkay.github.io/giffy/precache-manifest.0e4f21632e04bc28dcb25dc15d8e6342.js"
 );
 
 self.addEventListener('message', (event) => {
