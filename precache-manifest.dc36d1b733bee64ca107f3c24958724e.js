@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1eea7e28fbb06a26ac5c63700efccd09",
+    "revision": "71bab685c9fac81020654ca53e0dc64e",
     "url": "/ElmisteriOkay.github.io/giffy/index.html"
   },
   {
