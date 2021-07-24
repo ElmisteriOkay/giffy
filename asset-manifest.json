@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ElmisteriOkay.github.io/giffy/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ElmisteriOkay.github.io/giffy/static/js/main.8666cfd8.chunk.js",
+    "main.js.map": "/ElmisteriOkay.github.io/giffy/static/js/main.8666cfd8.chunk.js.map",
+    "runtime-main.js": "/ElmisteriOkay.github.io/giffy/static/js/runtime-main.398a7eee.js",
+    "runtime-main.js.map": "/ElmisteriOkay.github.io/giffy/static/js/runtime-main.398a7eee.js.map",
+    "static/js/2.c320036a.chunk.js": "/ElmisteriOkay.github.io/giffy/static/js/2.c320036a.chunk.js",
+    "static/js/2.c320036a.chunk.js.map": "/ElmisteriOkay.github.io/giffy/static/js/2.c320036a.chunk.js.map",
+    "index.html": "/ElmisteriOkay.github.io/giffy/index.html",
+    "precache-manifest.10333ff36817def6bcc1613a8089e841.js": "/ElmisteriOkay.github.io/giffy/precache-manifest.10333ff36817def6bcc1613a8089e841.js",
+    "service-worker.js": "/ElmisteriOkay.github.io/giffy/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ElmisteriOkay.github.io/giffy/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c320036a.chunk.js.LICENSE.txt": "/ElmisteriOkay.github.io/giffy/static/js/2.c320036a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.398a7eee.js",
+    "static/js/2.c320036a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8666cfd8.chunk.js"
+  ]
+}
